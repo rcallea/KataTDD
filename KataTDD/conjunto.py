@@ -4,3 +4,4 @@ class Conjunto:
         self.__conjunto=conjunto
 
     def calclular(self):
+        return

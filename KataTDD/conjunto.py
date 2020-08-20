@@ -3,4 +3,5 @@ class Conjunto:
     def __init__(self, conjunto):
         self.__conjunto=conjunto
 
-    def calclular(self):
+    def promedio(self):
+        return False
